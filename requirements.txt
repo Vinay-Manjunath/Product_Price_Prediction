@@ -1,0 +1,3 @@
+streamlit
+pandas
+sklearn.linear_model
